@@ -8,7 +8,7 @@
 		<version>2.2.4.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>YOUR_INFO_HERE</groupId>
+	<groupId>Vlad project</groupId>
 	<artifactId>YOUR_INFO_HERE</artifactId>
 	<version>2.0-RELEASE</version>
 	<packaging>war</packaging>
